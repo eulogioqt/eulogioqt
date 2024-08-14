@@ -1,3 +1,17 @@
+<h2 align="center">👋 Hello! I'm Eulogio</h2>
+
+- 🔭 I’m currently studying Software Engineering at UMA.
+- 📫 How to reach me: euquemada@gmail.com
+- ⚡ Recent project: <a href="https://eulogioqt.github.io/snake-game/">Snake Game</a>
+
+-------
+
+### 🚀 Projects I've Contributed To
+- 🦫 [Orcast](https://www.yellowbeavers.com) - A pixel art game made with Unity.
+- 📊 [InfoChange](https://infochange.me) - An exchange simulator focused on cryptocurrency.
+
+-------
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
