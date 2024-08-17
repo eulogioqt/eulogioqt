@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Eulogio</h2>
 <p align="center">
-  <a href="https://es.linkedin.com/in/eulogio-quemada-541780296">LinkedIn</a> •
-  <a href="https://www.instagram.com/eulogioqt">Instagram</a>
+  <a href="https://es.linkedin.com/in/eulogio-quemada-541780296" target="_blank">LinkedIn</a> •
+  <a href="https://eulogioqt.github.io" target="_blank">Portfolio</a>
 </p>
 
 - 🔭 I’m currently studying Software Engineering at UMA.
