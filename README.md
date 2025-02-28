@@ -6,12 +6,12 @@
 
 - 🔭 I’m currently studying Software Engineering at UMA.
 - 📫 How to reach me: euquemada@gmail.com
-- ⚡ Recent project: <a href="https://eulogioqt.github.io/snake-game/">Snake Game</a>
+- ⚡ Recent project: <a href="https://eulogioqt.github.io/qt-typing/">QT Typing</a>
 
 -------
 
 ### 🚀 Projects I've Contributed To
-- 🦫 [Orcast](https://www.yellowbeavers.com) - A pixel art game made with Unity.
+- 🍎 [Orcast](https://yellow-beavers.itch.io/orcast) - A pixel art game made with Unity.
 - 📊 [InfoChange](https://infochange.me) - An exchange simulator focused on cryptocurrency.
 
 -------
